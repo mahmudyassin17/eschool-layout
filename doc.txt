@@ -1,0 +1,31 @@
+Notes---
+eschool---
+
+font family-
+        poppins 
+        400
+        500
+        700
+
+        roboto
+        400
+
+
+color-
+ background -  #F0FFF0 ;
+ green - #21B573;
+ black - #000000;
+ white- #FFFFFF;
+ hover- #FD511A;
+
+header-
+Banner 
+xxl/xl/lg   -   md  -   sm/col
+
+padding-35/65   10/65
+h1-xxl/xl-48 lg-40  md-35  
+
+Feature
+xxl/xl/lg          md       sm      col
+pb-100             80       60
+s_f mt 40

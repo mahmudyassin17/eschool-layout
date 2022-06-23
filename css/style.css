@@ -1,0 +1,259 @@
+/* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&family=Roboto&display=swap');
+
+
+/* Common Start */
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    background: #fafafa;
+    color: #413960;
+    margin: 0;
+    padding: 0;
+}
+
+h1,h2, h3, h4, h5, h5, h6, p, ul, li {
+    margin-bottom: 0;
+}
+a{
+    text-decoration: none;
+}
+
+/* Common End */
+
+/* Header Start */
+header {
+    background: #F0FFF0;
+    padding: 5px 0;
+}
+
+.c_nav {}
+
+.logo {}
+
+.menu {}
+
+.menu ul li a {
+    font-weight: 500;
+    color: #413960 !important;
+    text-transform: capitalize;
+    padding: 0 24px !important;
+}
+
+.menu ul li a:hover {
+    color: #FD511A;
+}
+
+.btn_sign_in {
+    font-family: 'Roboto', sans-serif;
+    padding: 12px 28px;
+    background: #21B573;
+    color: #FFFFFF;
+    border-radius: 33px;
+}
+
+.btn_sign_in:hover {
+    background: #FD511A;
+    color: #FFFFFF;
+}
+
+/* Header End */
+
+/* Banner Start */
+.banner {
+    padding: 35px 0 65px;
+    background-color: #F0FFF0;
+}
+
+.b_text {}
+
+.b_red {
+    color: #FD511A;
+    line-height: 24px;
+}
+
+.b_h1 {
+    margin: 10px 0px 20px;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    color: rgb(0, 0, 0);
+    padding-right: 100px;
+}
+
+.b_h1 span {
+    color: #21B573;
+}
+
+.b_black {
+    line-height: 36px;
+}
+
+.btn_banner {
+    margin-top: 15px;
+    padding: 12px 36px;
+}
+
+.b_img {}
+
+.b_img img {}
+
+
+/* Banner End */
+
+/* Feature Start */
+.feature {
+    padding-bottom: 100px;
+}
+
+.s_feature {
+    margin-top: 40px;
+    padding: 55px 0 50px;
+    background: #F8FFFB;
+    text-align: center;
+    transition: .33s;
+    -webkit-transition: .33s;
+    -moz-transition: .33s;
+    -ms-transition: .33s;
+    -o-transition: .33s;
+}
+
+.s_feature:hover {
+    background: #fff;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+
+}
+
+.s_img {}
+
+.s_img img {}
+
+.s_text {}
+
+.s_text h2 {
+    margin: 22px 0 0;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+}
+
+.s_text p {
+    line-height: 24px;
+}
+
+/* Feature End */
+
+/* Courses Start */
+.courses {
+    padding-bottom: 100px;
+}
+
+.c_title {}
+
+.c_h1 {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    text-transform: capitalize;
+    color: #413960;
+
+}
+
+.c_item {
+    overflow: hidden;
+    margin-top: 60px;
+    padding: 25px 20px 30px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+
+.c_img {}
+
+.c_img img {}
+
+.c_text {}
+
+.c_text h2 {
+    margin: 20px 0 0;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 36px;
+    color: #413960;
+}
+
+.c_text p {
+    line-height: 24px;
+}
+
+.btn_courses {
+    margin: 20px 0 35px;
+    padding: 8px 28px;
+}
+
+.c_footer {}
+
+.date {}
+
+.date ul {}
+
+.date ul li {}
+
+.date ul li img, .seat ul li img {
+    width: 18px;
+}
+
+.date ul li span, .seat ul li span {
+    font-weight: 500;
+    line-height: 24px;
+}
+
+.seat {}
+
+.seat ul {}
+
+.seat ul li {}
+
+.seat ul li img {
+    width: 20px;
+}
+
+/* Courses End */
+
+/* Testimonial Start */
+.testimonial {
+    padding-bottom: 100px;
+}
+.car_m{margin-top: 75px;}
+.t_img {
+}
+.t_img img{
+}
+
+.t_text {
+}
+.t_text p{
+    line-height: 30px;
+}
+
+/* Testimonial End */
+
+/* Footer Start */
+footer{padding: 50px 0 50px;
+    background: #282531;
+color: #fff;
+}
+.f_2 ul li:first-child{
+    font-weight: 700;
+}
+.f_1 p,.f_2 ul li a{
+    line-height: 30px;
+    color: #fff;
+}
+.f_3{
+    margin-top: 75px;
+}
+/* Footer End */
